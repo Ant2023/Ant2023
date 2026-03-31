@@ -51,8 +51,9 @@ I am a Computer Science graduate with a background in Technical Project Manageme
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ant2023&show_icons=true&theme=default" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Ant2023" />
 </p>
-
 ## Connect With Me
 
 - 💼 LinkedIn: (https://www.linkedin.com/in/anita-ismail22/)  
