@@ -1,54 +1,65 @@
-<h1 align="center">Anita Ismail</h1>
+<h1 align="center">Hello, my name is Anita Ismail </h1>
 
 <p align="center">
-Computer Science graduate focused on Cloud and DevOps, building scalable systems and improving how software is delivered.
+Computer Science graduate focused on Cloud and DevOps.<br/>
+Building scalable systems, automating workflows, and delivering real-world solutions.
 </p>
 
 ---
 
-## About
-
-I am currently building a strong foundation in cloud infrastructure, automation, and modern software delivery.
-
-My background in Agile and Scrum, combined with hands on technical work, allows me to approach systems with both a delivery and engineering mindset. I focus on building reliable applications, improving workflows, and understanding how systems operate in real environments.
+## About Me
+I am a Computer Science graduate with a background in Technical Project Management, bringing several years of experience supporting and delivering Agile projects in fast-paced environments. I am currently strengthening my technical expertise in cloud and DevOps through hands-on work building and deploying applications. I bring a combination of project delivery insight and evolving engineering capability, with the flexibility to contribute across a range of technical roles and team environments.
 
 ---
 
-## Tech
+## 🛠️ Tech Stack
 
-Cloud  
-AWS ECS, ECR, EC2, S3, IAM, VPC  
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-DevOps and Delivery  
-Docker, GitHub Actions, CI CD  
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-Infrastructure and Scripting  
-Terraform, Python, Bash  
+### 🧱 Infrastructure & Scripting
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-Tools  
-Linux, Git, REST APIs  
-
----
-
-## Projects
-
-### Cloud Event RSVP System
-Containerized application built with Docker and deployed on AWS ECS.  
-Includes CI CD pipeline using GitHub Actions and handles RSVP capacity logic in real time.
-
-https://github.com/YOUR_USERNAME/cloud-event-rsvp-system
+### 🔧 Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Focus
+## 📌 Featured Projects
 
-Building and deploying cloud based applications  
-Strengthening automation and CI CD pipelines  
-Expanding into infrastructure as code and system reliability  
+### 🌐 Cloud Event RSVP System
+- Dockerized Node.js application  
+- Deployed on AWS ECS with ECR  
+- CI/CD pipeline using GitHub Actions  
+- Handles real-time RSVP logic with capacity control  
+
+👉 [View Project](https://github.com/YOUR_USERNAME/cloud-event-rsvp-system)
 
 ---
 
-## Connect
+## 📊 GitHub Stats
 
-LinkedIn  
-https://linkedin.com/in/YOUR-LINK
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: (https://www.linkedin.com/in/anita-ismail22/)  
+  
+---
+
+<p align="center">
+Building. Learning. Evolving.
+</p>
