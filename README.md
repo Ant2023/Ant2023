@@ -44,7 +44,7 @@ I am a Computer Science graduate with a background in Technical Project Manageme
 - CI/CD pipeline implemented with GitHub Actions  
 - Handles real-time RSVP logic with capacity control  
 
-[View Project](https://github.com/YOUR_USERNAME/cloud-event-rsvp-system)
+[View Project][(https://github.com/Ant2023/cloud-event-rsvp-system)]
 ---
 
 ## 📊 GitHub Stats
